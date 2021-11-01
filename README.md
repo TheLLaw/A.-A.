@@ -23,3 +23,6 @@ FOLLOW ALL OF THE INSTRUCTIONS STRICTLY.
 8. Follow the instructions and relax knowing that you won't lose whatever the name of the items is.
 
 Man I should start playing destiny 2 right.
+
+
+Any issues: Run it again. You should have multiple files in ur directory. It might crash once or twice just keep booting it up. I'm lazy and don't wanna fix that, don't wanna compile it. Also it doesn't affect performance that much I didn't see one frame drop during my gameplay sooo ig cool.

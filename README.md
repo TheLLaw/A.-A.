@@ -26,3 +26,7 @@ Man I should start playing destiny 2 right.
 
 
 Any issues: Run it again. You should have multiple files in ur directory. It might crash once or twice just keep booting it up. I'm lazy and don't wanna fix that, don't wanna compile it. Also it doesn't affect performance that much I didn't see one frame drop during my gameplay sooo ig cool.
+
+Btw for anyone asking why this is encrypted. Basically I had no idea of how to encrypt my api key. Yen Yang of python. Soo I made you create your own bungie application and did some basic encrypting. If you really want to see the code just decrypt it ok. Just don't make fun of my trash code lol (it says in bungie terms of use that you are not allowed to share your api key in any capacity and I don't wanna be banned from my beloved game that I haven't played in a few weeks).
+
+:D

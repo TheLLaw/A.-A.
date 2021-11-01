@@ -11,7 +11,7 @@ Idk what to put here lmfao.
 
 Oh yeah the tutorial of how to use this.
 
-FOLLOW ALL OF THE INSTRUCTIONS PERFECTLY.
+FOLLOW ALL OF THE INSTRUCTIONS STRICTLY.
 
 1. Download and install python (because best programming language) and make sure to add to path (it's one of the options during the instalation). https://www.python.org/
 2. Download the code. (Keep in mind windows defender will flag this as a virus. IT IS NOT TRUE THIS SOFTWARE IS NOT MALWARE BUT WIN DEFENDER INDENTIFIES ALL pyinstaller FILES AS MALWARE: https://www.reddit.com/r/learnpython/comments/e99bhe/why_does_pyinstaller_trigger_windows_defender/) I don't recommend you totally disable your anti-virus but you can go to settings and add an exception and select this folder.
